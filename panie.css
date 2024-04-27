@@ -1,0 +1,128 @@
+h1,p{
+    padding: 0pxpx;
+    margin:0pc;
+    
+}
+p{
+    margin-left: 10px;
+    font-size: 15px;
+}
+.panie{
+    color: black;
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    
+}
+.produit{
+
+    margin: 10px;
+    position: absolute;
+    bottom: 300px;
+}
+.produit1{
+    margin: 10px;
+    position: absolute;
+    bottom: 300px;
+    right:40%
+}
+.produit2{
+    margin: 10px;
+    position: absolute;
+    bottom: 300px;
+    right: 0%;
+}
+.produit3{
+    margin: 10px;
+    position: absolute;
+    bottom: 0px;
+}
+.produit4{
+    margin: 10px;
+    position: absolute;
+    bottom: 0px;
+    right: 40%;
+}
+
+
+.a{
+    position: relative;
+    left: 70px;
+    border: solid;
+    color: green;
+    padding: 5px;
+    position: relative;
+    top: 10px;
+}
+.a1{
+    position: relative;
+    left: 70px;
+    border: solid;
+    color: green;
+    padding: 5px;
+    position: relative;
+    top: 10px; 
+}
+.a2 {
+position: relative;
+left: 70px;
+border: solid;
+color: green;
+padding: 5px;
+position: relative;
+top: 10px;
+}
+.a3{
+    position: relative;
+    left: 70px;
+    border: solid;
+    color: green;
+    padding: 5px;
+    position: relative;
+    top: 10px;
+}
+.a4{
+    position: relative;
+    left: 70px;
+    border: solid;
+    color: green;
+    padding: 5px;
+    position: relative;
+    top: 10px;
+}
+.l1 img{
+    position: relative;
+    left: 50px;
+    nav-down: 500px;
+}
+ .l1 p{
+    position: relative;
+    left: 350px;
+    bottom: 300px;
+}
+.bu1{
+    position: relative;
+    left:370px ;
+    bottom: 220px;
+}
+.p1{
+    position: relative;
+    left:420px ;
+    bottom: 220px;
+}
+.bu2{
+    position: relative;
+    left:470px ;
+    bottom: 222px;
+}
+
+.b1{
+    position: relative;
+    left: 370px;
+    top: -160px;
+    color:green;
+    border:5px solid;
+    margin-right: 90% ;
+    padding: 15px;
+}
+ 
